@@ -37,3 +37,10 @@ font-weight: bold;
     display: flex;
 }
 
+footer p {
+    margin-top: 40px;
+    font-size: 40px;
+    
+}
+
+
