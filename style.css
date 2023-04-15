@@ -1,0 +1,21 @@
+body {
+    box-sizing: border-box;
+}
+
+.back-header {
+    background-color: #1B3764;
+    width: 1920px;
+    height: 1100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 1fr 1fr;
+}
+
+nav {
+    grid-column: 1 / span 2;
+    display: flex;
+}
+
+nav p {
+    margin-left: 10px;
+}
